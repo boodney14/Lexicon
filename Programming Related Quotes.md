@@ -4,3 +4,4 @@
 4. Code is like humor. When you have to explain it, it’s bad. – Cory House
 5. Make it work, make it right, make it fast. – Kent Beck
 6. Clean code always looks like it was written by someone who cares. — Robert C. Martin
+7. Of course, bad code can be cleaned up. But it’s very expensive.” — Robert C. Martin
